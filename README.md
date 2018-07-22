@@ -1,5 +1,5 @@
-# React bootstrap
-React with Boostrap 4 -  ParcelJS - Babel
+# React with Ant Design
+React with  Ant Design -  ParcelJS - Babel
 
 
 ## Instructions: Develop
